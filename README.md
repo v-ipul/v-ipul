@@ -1,5 +1,5 @@
 "# v-ipul" 
-![Vipul Yadav's-cover](./imgage-cover.png)
+![Vipul Yadav's-cover](./cover-image.png)
 VIPUL YADAV
 
 
