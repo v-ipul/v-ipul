@@ -3,7 +3,7 @@
 VIPUL YADAV
 
 
-I am a ENTC engineering student from Vishwakarma INstitute of Information Technology , Pune 
+I am a ENTC engineering student from Vishwakarma Institute of Information Technology , Pune 
 
 
 ## 🧔 About Me
@@ -29,7 +29,7 @@ I am a ENTC engineering student from Vishwakarma INstitute of Information Techno
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaagrav&layout=compact&show_icons=true&theme=dark)](https://github.com/Jaagrav/Jaagrav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaagrav&layout=compact&show_icons=true&theme=dark)]
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
