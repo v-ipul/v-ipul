@@ -15,7 +15,7 @@ I am a ENTC engineering student from Vishwakarma Institute of Information Techno
 - 👯 I’m looking to collaborate on **MERN and Blockchain Projects**
 
 
-- 💬 Ask me about **React, WEb Development**
+- 💬 Ask me about **WEb Development**
 
 - 📫 Contact me **[here](vipulyadav21124@gmail.com)**
 
