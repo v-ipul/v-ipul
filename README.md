@@ -20,7 +20,7 @@ I am a ENTC engineering student from Vishwakarma Institute of Information Techno
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaagrav&layout=compact&show_icons=true&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-ipul&layout=compact&show_icons=true&theme=dark)]
 
 ![Skill](https://img.shields.io/badge/PYTHON-FAF602?style=for-the-badge&logo=PYTHON&logoColor=BLUE)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
